@@ -1,3 +1,3 @@
 # data_completion
--Data scrapping
--Datamining
+- Data scrapping
+- Datamining
